@@ -1,6 +1,7 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.kikilin.checkers" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" 
+        id="com.fvi-grad.kikilin.checkers" version="1.0.0">
   <name>Checkers</name>
-  <description>checkers</description>
+  <description></description>
   <author href="http://kikilin.fvi-grad.com" email="kikiqianlin@gmail.com">Kikilin</author>
   <content src="index.html"/>
   <!--<preference name="DisallowOverscroll" value="true"/>
